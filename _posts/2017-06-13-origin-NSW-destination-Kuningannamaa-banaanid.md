@@ -59,7 +59,7 @@ Brisbane’is vedas meil ka öömajaga, mille broneerisime loomulikult **AirBnB*
 <font color="grey" size="3">Risti rästi kõik on hästi, nagu mataõps õpetas.</font>
 
 ![Letters](/images/letters.jpg "Letters")
-<font color="grey" size="3">GOMA. Lee Mingwei. _Three pavilions Writing the unspoken 1999_ .</font>
+<font color="grey" size="3">GOMA. Lee Mingwei.Three pavilions Writing the unspoken 1999.</font>
 
 Mistõttu järgmine postitus tuleb üsna matkade rohke.. 
 
