@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Jätkame reisimarsruuti **New South Walesist** suunaga **Queenslandi**. Liikusime mööda põhilist idaranniku maanteed – **Pacific Highway** - edasi aina põhja poole, tehes vahepeal kõrvalepõikeid mägedesse ja rannikule. Meie pettumuseks ei jookse see A1 maantee teps mitte mereäärest, nagu kujutasime vaimusilmas ette, et kulgeme muudkui mööda palmide ja randade rida vaatega Vaiksele ookeanile. Oh ei. Kuigi pärleid oli (**Cardwell**, **Port Douglase-Cairnsi** vaheline teelõik), siis enamik sellest väga pikast teest oli ikkagi istanduste, karjamaade ja küngaste-mäenukkidega ääristatud, mis iseenesest pole ka paha, lihtsalt reaalsus ei vastanud päris ettekujutusele. 
 
@@ -62,6 +62,4 @@ Brisbane’is vedas meil ka öömajaga, mille broneerisime loomulikult **AirBnB*
 
 Mistõttu järgmine postitus tuleb üsna matkade rohke.. 
 
-Lein.   
-
-
+Lein.
