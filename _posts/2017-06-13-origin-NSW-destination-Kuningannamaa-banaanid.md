@@ -62,5 +62,3 @@ Brisbane’is vedas meil ka öömajaga, mille broneerisime loomulikult **AirBnB*
 <font color="grey" size="3">GOMA. Lee Mingwei.Three pavilions Writing the unspoken 1999.</font>
 
 Mistõttu järgmine postitus tuleb üsna matkade rohke.. 
-
-Lein.
