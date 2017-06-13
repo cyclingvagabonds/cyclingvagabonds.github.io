@@ -45,13 +45,14 @@ Queenslandi lõunaosas paiknev pealinn **Brisbane**, Austraalia suuruselt 3. lin
 <font color="grey" size="3">Suur linn, klaastornid ja puha. Brisbane river.</font>
 
 ![City hall](/images/bris_giff.gif "City hall")
+<font color="grey" size="3">Brisbane City Hall</font>
 
 ![Brisbane night](/images/bris_night.jpg "Brisbane night")
 <font color="grey" size="3">Brisbane õhtuhämaruses. Paddington.</font>
 
 Brisbane’is vedas meil ka öömajaga, mille broneerisime loomulikult **AirBnB** kaudu kesklinnast natuke eemale asumisse **the Gap**, kohe khuulide rattasõidu kohtade ja -radade kõrvale. Meie päralt oli armastusväärse Lõuna-Aafrikast Brisi emigreerunud perekonna eramaja alumine privaatne korrus-korter vaatega kolmele palmipuule ja mägedele ja südanthaaravale päikesetõusule. See oli väga _sweet_ kodu. Lisaks oli pereisa A. samuti rattahoolik ja ühel väga varajasel hommikul, kui Erki meie Brisis elava aussie tuttava  Jaiga sõitma läks (sest aussied armastavad kukelauluga ratast sõita, nagu ma korduvalt olen maininud), siis majahärra A. ühines nendega ja kolm karu väntasid üheskoos vallutama Brisi kõige kõrgemat tippu **Mt Coot-tha**. _Que de joie_.. kuni sama päeva hetkeni, mil Erki avastas, et tema rattaraamis ühes ühenduskohas on eluohtlik mõra.
 
-![Playground love](/images/erki_brisis.jpg "Playground love")
+![Playground love](/images/erki_bris.jpg "Playground love")
 <font color="grey" size="3">Playground love.</font>
 
 ![Brisbane bridge](/images/kirke_sillal.jpg "Brisbane bridge")
