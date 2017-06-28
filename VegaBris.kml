@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>VegaBris</name>
+    <description>Vegan restaurants in Brisbane</description>
+    <Style id="icon-1899-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>data_veg_bris.xlsx</name>
+      <Placemark>
+        <name>7 Hills Vegetarian</name>
+        <address>Shop 2/16 Marshall Lane, Kenmore</address>
+        <description>Shop 2/16 Marshall Lane, Kenmore</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Ashiana Pure Vegetarian Indian Rest.</name>
+        <address>Shop 2/121 Oxley Station Road, Oxley</address>
+        <description>Shop 2/121 Oxley Station Road, Oxley</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Botanica</name>
+        <address>Shop 9/1 Enoggera Terrace, Red Hill</address>
+        <description>Shop 9/1 Enoggera Terrace, Red Hill</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Cat Cuddle Café</name>
+        <address>160 Musgrave Road, Red Hill</address>
+        <description>160 Musgrave Road, Red Hill</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Charlie’s Raw Squeeze</name>
+        <address>486 Waterworks Road, Ashgrove</address>
+        <description>486 Waterworks Road, Ashgrove</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Charlie’s Raw Squeeze</name>
+        <address>730 Sandgate Road, Clayfield</address>
+        <description>730 Sandgate Road, Clayfield</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Charlie’s Raw Squeeze</name>
+        <address>473 Southpine Road, Everton Park</address>
+        <description>473 Southpine Road, Everton Park</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Charlie’s Raw Squeeze</name>
+        <address>904 Moggill Road, Kenmore</address>
+        <description>904 Moggill Road, Kenmore</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Charlie’s Raw Squeeze</name>
+        <address>33 Longland Street, Newstead</address>
+        <description>33 Longland Street, Newstead</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Charlie’s Raw Squeeze</name>
+        <address>1/100 Mooroondu Road, Thorneside</address>
+        <description>1/100 Mooroondu Road, Thorneside</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Charlie’s Raw Squeeze</name>
+        <address>70 Hornibrook Esplanade, Clontarf</address>
+        <description>70 Hornibrook Esplanade, Clontarf</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Charlie’s Raw Squeeze</name>
+        <address>51 Old Cleveland Road, Greenslopes</address>
+        <description>51 Old Cleveland Road, Greenslopes</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Charlie’s Raw Squeeze</name>
+        <address>8/629 Wynnum Road, Morningside</address>
+        <description>8/629 Wynnum Road, Morningside</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Charlie’s Raw Squeeze</name>
+        <address>53 Endeavour Boulevard, North Lakes</address>
+        <description>53 Endeavour Boulevard, North Lakes</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Coco Bliss</name>
+        <address>1/210 Oxford Street, Bulimba</address>
+        <description>1/210 Oxford Street, Bulimba</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Coco Bliss</name>
+        <address>K206, Westfield Garden City, Logan Rd, Upper Mount Gravatt</address>
+        <description>K206, Westfield Garden City, Logan Rd, Upper Mount Gravatt</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Dosa Plaza</name>
+        <address>628 Wynnum Road, Morningside</address>
+        <description>628 Wynnum Road, Morningside</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Evolve Organics</name>
+        <address>53 Commercial Road, Teneriffe</address>
+        <description>53 Commercial Road, Teneriffe</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Gopal’s Pure Vegetarian</name>
+        <address>Shop 1/600 Sherwood Road, Sherwood</address>
+        <description>Shop 1/600 Sherwood Road, Sherwood</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Govinda’s Restaurant</name>
+        <address>358 George Street, Brisbane CBD</address>
+        <description>358 George Street, Brisbane CBD</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Govindas</name>
+        <address>82 Vulture Street, West End</address>
+        <description>82 Vulture Street, West End</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Hare Krishna Food for Life</name>
+        <address>226 Brunswick Street, Fortitude Valley</address>
+        <description>226 Brunswick Street, Fortitude Valley</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Inala Vegan Restaurant</name>
+        <address>Kittyhawk Avenue, Inala</address>
+        <description>Kittyhawk Avenue, Inala</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Insane Acai Bar</name>
+        <address>120 Boundary Street, West End</address>
+        <description>120 Boundary Street, West End</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Ironbark Superfoods</name>
+        <address>26 Main Street, Samford</address>
+        <description>26 Main Street, Samford</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Kings Indian Fast Food</name>
+        <address>Shop 4/1420 Logan Road, Mount Gravatt</address>
+        <description>Shop 4/1420 Logan Road, Mount Gravatt</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Lost Boys</name>
+        <address>694 Ann Street, Fortitude Valley</address>
+        <description>694 Ann Street, Fortitude Valley</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Loving Hut</name>
+        <address>Shop 2/1420 Logan Road, Mount Gravatt</address>
+        <description>Shop 2/1420 Logan Road, Mount Gravatt</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>LYV K</name>
+        <address>26 Kingussie St, Kenmore</address>
+        <description>26 Kingussie St, Kenmore</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Mirchh Masala Chaat Court</name>
+        <address>110 Logan Road, Wooloongabba</address>
+        <description>110 Logan Road, Wooloongabba</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>MooFree Burgers</name>
+        <address>53 Endeavour Boulevard, North Lakes</address>
+        <description>53 Endeavour Boulevard, North Lakes</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>MooFree Burgers</name>
+        <address>357 Redbank Plains Road, Redbank</address>
+        <description>357 Redbank Plains Road, Redbank</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>MYLK + KO</name>
+        <address>148 Merthyr Road, New Farm</address>
+        <description>148 Merthyr Road, New Farm</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>PingAn Veggie Time</name>
+        <address>3/708 Sandgate Road, Clayfield</address>
+        <description>3/708 Sandgate Road, Clayfield</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Pu Kwong</name>
+        <address>2796 Logan Road, Underwood</address>
+        <description>2796 Logan Road, Underwood</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Pure Simplicity</name>
+        <address>22 Carrara Street, Mt Gravatt East</address>
+        <description>22 Carrara Street, Mt Gravatt East</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Raw Juicery</name>
+        <address>280 Adelaide Street, city</address>
+        <description>280 Adelaide Street, city</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Raw Juicery</name>
+        <address>61 Oxford Street, Bulimba</address>
+        <description>61 Oxford Street, Bulimba</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Raw Juicery</name>
+        <address>Lower Food Court Westfield Carindale</address>
+        <description>Lower Food Court Westfield Carindale</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Raw Juicery</name>
+        <address>Indooroopilly Shopping Centre, Indooroopilly</address>
+        <description>Indooroopilly Shopping Centre, Indooroopilly</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Raw Juicery</name>
+        <address>Food Court Westfield Chermside</address>
+        <description>Food Court Westfield Chermside</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Satori Organics</name>
+        <address>198 Seymour Street, Sandgate</address>
+        <description>198 Seymour Street, Sandgate</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>September 18</name>
+        <address>Shop 2B/1650 Anzac Avenue, North Lakes</address>
+        <description>Shop 2B/1650 Anzac Avenue, North Lakes</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Spice Valley of Brisbane</name>
+        <address>11 Nundah Street, Nundah</address>
+        <description>11 Nundah Street, Nundah</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Su Life Vegetarian Restaurant</name>
+        <address>Shop 4/2120 Logan Road, Upper Mt Gravatt</address>
+        <description>Shop 4/2120 Logan Road, Upper Mt Gravatt</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Superoll </name>
+        <address>Shop 22A/342 McCullough Street, Sunnybank</address>
+        <description>Shop 22A/342 McCullough Street, Sunnybank</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Sweet Dessert Shop </name>
+        <address>Shop 10 Market Square Shopping Centre, Sunnybank</address>
+        <description>Shop 10 Market Square Shopping Centre, Sunnybank</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Tea Master</name>
+        <address>Shop 8/115 Wickham Street, Fortitude Valley</address>
+        <description>Shop 8/115 Wickham Street, Fortitude Valley</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>The Green Edge Café </name>
+        <address>229 Lutwyche Road, Windsor</address>
+        <description>229 Lutwyche Road, Windsor</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Thien An </name>
+        <address>Shop 8/57 Corsair Avenue, Inala</address>
+        <description>Shop 8/57 Corsair Avenue, Inala</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Top in Town Pure Veg </name>
+        <address>Shop 1/1981 Logan Road, Upper Mt Gravatt</address>
+        <description>Shop 1/1981 Logan Road, Upper Mt Gravatt</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Veganyumm Coffee shop and Bakery </name>
+        <address>473 South Pine Road, Everton Park</address>
+        <description>473 South Pine Road, Everton Park</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Vegeme </name>
+        <address>Shop 9/220 Melbourne Street, South Brisbane</address>
+        <description>Shop 9/220 Melbourne Street, South Brisbane</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Vege Rama </name>
+        <address>Shop 30 Post Office Square, 270-280 Queen St, Brisbane CBD</address>
+        <description>Shop 30 Post Office Square, 270-280 Queen St, Brisbane CBD</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Vege Rama </name>
+        <address>Level E Myer Centre, 91 Queen Street, Brisbane CBD</address>
+        <description>Level E Myer Centre, 91 Queen Street, Brisbane CBD</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Vege Rama </name>
+        <address>Shop 2a/220 Melbourne Street, South Brisbane</address>
+        <description>Shop 2a/220 Melbourne Street, South Brisbane</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Vege Rama </name>
+        <address>Westfield Carindale</address>
+        <description>Westfield Carindale</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Vegeto</name>
+        <address>Queens Plaza, 226 Queen Street, Brisbane CBD</address>
+        <description>Queens Plaza, 226 Queen Street, Brisbane CBD</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Yummy Goodness </name>
+        <address>Shop 9, Circa One, 1 Aspinall Street, Nundah</address>
+        <description>Shop 9, Circa One, 1 Aspinall Street, Nundah</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Yu Ping Veg House </name>
+        <address>Shop 117/ Sunnybank Plaza, 358 Mains Road, Sunnybank</address>
+        <description>Shop 117/ Sunnybank Plaza, 358 Mains Road, Sunnybank</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
