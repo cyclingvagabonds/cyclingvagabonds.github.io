@@ -53,9 +53,23 @@ Pärast enam kui kuupikkust reisi jõuame lõpuks Cairnsi, meie reisi lõpp-punk
 
 Cairnsist sisemaa poole tõusevad järsud mäeahelikud (**Athertoni platoo**) ja leidub järjekordselt hulgaliselt _waterfalle_ (jugasid), lehmasid, troopilist vihmametsa ja üks omapärane turistikas küla nimega **Kuranda**. Meie külastasime seda kella 9 paiku hommikul, sest telkisime mitte kaugel sealsamas platool. Kui kurikuulsale hipilikule värvikale ja rohelusega mittekoonerdavale turule jõudsime, siis imestasime, et kõik oli veel nii unine ja vaikne (tundes austraallasi, siis kell 9 on juba esimese kohvipausi või töömeeste slängis _smoko_ aeg). Üks müüjatar andis sellele seletuse: esimene turistikas auruvedur jõuab mägedesse alles kell 10 ja siis läheb action lahti. Nautisime hommikukohvide kõrvale siis unist hipioaasi Petit Cafe creperie kohvikus ning vaatasime, kuidas üks tumedapäine poiss nosis pannkooki ja vastas oma hispaania keelt kõnelevale isale inglise keeles. Austraalia on ikka täitsa rahvaste paabel, üsna multikulti. Mitmes mõttes tore, sest mida vähem eelarvamusi ja ettekirjutusi, seda rohkem vabadust ja õhku, mida hingata. Ajalugu on riigil siiski veidi liiga üürike ja igatsen natuke Euroopa mitmekihilisi vanalinnu.
 
+![Kuranda market](/images/kuranda2.jpg "Kuranda market")<font color="grey" size="3">Kuranda veel unine turg.</font>
+
+![Kuranda market](/images/kuranda1.jpg "Kuranda market")<font color="grey" size="3">World Peace!</font>
+
 Cairnsist põhja poole **Port Douglase** suunas sõites on lõpuks võimalik maalilist ookeaniäärt ka autoaknast nautida. **Cook Highway** oli kõige ilusam autotee meie tripil ja viis see meid ühepäevasele ekskursioonile Port Douglasesse. Kõmpisime seal ühele vaateplatvormile, kus oli kompassi peale märgitud eri linnade kaugused antud kohast. Nii selgus, et Mexico City ja Helsinki olid enam-vähem ühekaugusel, 15 000 km. Meie sõitsime selle peale hoopis Cairnsi botaanikaaeda, mis oli seni külastatud aedadest kõige huvitavam ja eksootilisem: nägime lihasööjat taime, erkpunaseid õisikuid, palme, sõnajalgu, liblikaid. Lisaks oli botaanikaaia kõrval ka mitmeid matkaradu, mis nagu ikka viisid künkaid pidi üles (vaade polnud suurem asi – kõrvalolevale lennujaamale, küll aga oli teekond nauditav mööda kitsast ja kivist hämara metsaga kaetud nõlva). 
 
+![Cairns Botanical Gardens](/images/punane_lill.jpg "Cairns Botanical Gardens")<font color="grey" size="3">Cairns. Botaanikaaed.</font>
+
+![Cairns Botanical Gardens](/images/lind_lill.jpg "Cairns Botanical Gardens")<font color="grey" size="3">Paremal: Cairns. Botaanikaaed. Vasakul: Red-tailed black cockatoo ehk must kakaduu. Townsville. </font>
+
+![Cairns Botanical Gardens](/images/liblikas.jpg "Cairns Botanical Gardens")<font color="grey" size="3">Cairns. Botaanikaaed.</font>
+
+![Cairns Botanical Gardens](/images/leheke.jpg "Cairns Botanical Gardens")<font color="grey" size="3">Cairns. Botaanikaaed.</font>
+
 Cairnsist tagasi sõitsime üsna ühe jutiga Brisbane’i poole, sest olime juba poolteist kuud teel olnud ja tahtsime isegi natuke tsivilisatsiooni tagasi saada. Tegime siiski ka vahelepõike **Glasshouse mountains küngastele**, mis tõusevad järsult ülejäänud laugelt maalt. Kapten Cook 1770. a vaatas, et 11 järsult kerkivat mäge meenutasid tema kodukandi klaasipõletusahjusid ja andis künkagrupile nime. Loomulikult vallutasime ühe tipu nimega **Mt Ngungun** (koos teiste nädalavahetuse veetjatega). Jällegi populaarne matkamise koht ka kohalike seas, rahvast oli palju. Võrdleks neid meie tippude vallutusi  spordivõistluste, laulupeo või mõne muu rahvast ühendava üritusega. Selline üksteist tunnustav, inspireeriv ja ühendav tunne on koos teiste matkajatega üles rühkida ja kõrgelt vaadet nautida. Kuigi üksi on ka väga meditatiivne ja mõnus (vb et mõnusamgi). 
+
+![Glasshouse Mountains](/images/Glasshouse.jpg "Glasshouse Mountains")<font color="grey" size="3">Mt Ngungun ja jt Glasshouse mnts tipud.</font>
 
 ### Staabis Brisbane’is
 Aga nüüd oleme ennast sisse seadnud Brisbane’is, Queenslandi kõige suuremas linnas. Meie algne valik oli Melbourne, kuigi olgem ausad, sinna oleks ikka kuratlikult pikk sõit olnud, lisaks meeldib meile Brisbane elukeskkonnana täitsa hästi ja talve veeta on siin kõige parem mõte, sest Brisi talv sarnaneb temperatuurilt Eesti suvega (ainult stabiilsem). Järgmises postituses sellest lähemalt..
