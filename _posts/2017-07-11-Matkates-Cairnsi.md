@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ### Keskeakriis
 ![Erki ja Oakley](/images/pineapple.jpg "Erki ja Oakleyd")
