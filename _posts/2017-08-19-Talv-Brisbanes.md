@@ -75,7 +75,7 @@ Meie Brisbane **To Do List**:
 ![Panoraam](/images/panorama_bris.jpg "Panoraam")
 <font color="grey" size="3">Mt Coot-thalt avanev panoraamvaade Brisile.</font>
 
-[2]	Lõbusõit või commute linna ühistranspordi CityHopperiga – reisijate laevukesega, mis teeb peatusi vaheldumisi jõe kahe kalda vahel ja on kõigile TASUTA. Näeb kaldad ja sillad ära ning hea õnne korral saab isegi paadi katusel istuda, eeldusel, et mõni vaba koht leidub. Tasub nii päevane kui öine sõit, sest öösel raiskab linn kenasti elektrit ja sillad ning jõe äär on värvidesäras. 
+[2]	Lõbusõit või _commute_ linna ühistranspordi **CityHopperiga** – reisijate laevukesega, mis teeb peatusi vaheldumisi jõe kahe kalda vahel ja on kõigile TASUTA. Näeb kaldad ja sillad ära ning hea õnne korral saab isegi paadi katusel istuda, eeldusel, et mõni vaba koht leidub. Tasub ette võtta nii päevane kui öine sõit, sest öösel raiskab linn kenasti elektrit ja sillad ning jõe äär on värvidesäras. 
 
 3.	 Jalutuskäik jõe lõunakaldal. Tasub pilk peale heita nii kohe jõe ääres paiknevale ja linlaste poolt palavalt armastatud Southbankile, kus asub mitmeid lõbustusi (vaateratas, veepark, lugematu arv söögikohti-baare, muuseume, muruplatse, mis olesklevaid ja linnasiluetti nautivaid inimesi täis), aga ka alternatiivsemale Southbank linnaosale, kus on niisamuti palju söögikohti ja poode (paljud neist ka taimetoidule pühendatud), kuid veidi ekstravagantsem läbilõige rahvastikust. 
 
