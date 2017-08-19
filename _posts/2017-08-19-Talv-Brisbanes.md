@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Kaks talvist kuud Brisbanes on mööda saadetud ja ei oska muud kosta kui vaid kiidusõnu ilmataadile. Nii mõnusa kliimaga talve polegi meil varem olnud. Päeval on väljas konstantselt toatemperatuur (toas on toatemperatuurist mõni kraad madalam temperatuur – ehk siis jahedam, kuigi sõltub ka majast) ja seejuures on taevas 90% pilvitu-päikseline. 21-24 kraadi ja seda iga jumala päev!!! Kas saab ilm olla normaalsem? Enne päiksetõusu ja pärast –loojangut on muiudgi jahe, kuid _it’s ok, all good_, loogiline. Ühel hommikul enne tõusu, mis peaks olema kõige külmem aeg, näitas Erki Garmin vaid mõni kraad üle nulli, samas kui päeval tõusis temperatuur ikkagi üle kahekümne. Nii tobe kui see ka ei ole, siis on talv Brisbanes parem kui suvi Eestis. Kahjuks. Suvel läheb siin muidugi palavaks ja mis vastikumgi – niiskeks. 
 
@@ -96,6 +96,3 @@ Kokkuvõtteks – Brisbane on väga kenasti ära kasutanud oma jõe ümbrust ja 
 
 ![Queensland University of Technology](/images/science_kirke.jpg "Queensland University of Technology")
 <font color="grey" size="3">Queensland University of Technology ehk Tehnikaülikoolis.</font>
-
-
-
