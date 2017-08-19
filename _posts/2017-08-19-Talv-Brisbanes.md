@@ -77,7 +77,7 @@ Meie Brisbane **To Do List**:
 
 [2]	Lõbusõit või _commute_ linna ühistranspordi **CityHopperiga** – reisijate laevukesega, mis teeb peatusi vaheldumisi jõe kahe kalda vahel ja on kõigile TASUTA. Näeb kaldad ja sillad ära ning hea õnne korral saab isegi paadi katusel istuda, eeldusel, et mõni vaba koht leidub. Tasub ette võtta nii päevane kui öine sõit, sest öösel raiskab linn kenasti elektrit ja sillad ning jõe äär on värvidesäras. 
 
-3.	 Jalutuskäik jõe lõunakaldal. Tasub pilk peale heita nii kohe jõe ääres paiknevale ja linlaste poolt palavalt armastatud Southbankile, kus asub mitmeid lõbustusi (vaateratas, veepark, lugematu arv söögikohti-baare, muuseume, muruplatse, mis olesklevaid ja linnasiluetti nautivaid inimesi täis), aga ka alternatiivsemale Southbank linnaosale, kus on niisamuti palju söögikohti ja poode (paljud neist ka taimetoidule pühendatud), kuid veidi ekstravagantsem läbilõige rahvastikust. 
+[3] Jalutuskäik jõe lõunakaldal. Pilgu võiks peale heita nii kohe jõe ääres paiknevale ja linlaste poolt palavalt armastatud **Southbankile**, kus asub mitmeid lõbustusi (vaateratas, "rand", lugematu arv söögikohti-baare, muuseume, muruplatse, mis olesklevaid ja linnasiluetti nautivaid inimesi täis), aga ka alternatiivsemale **Westend** linnaosale, kus on niisamuti palju söögikohti, joogikohti ja poode (paljud neist ka taimetoidule pühendatud), kuid veidi ekstravagantsem läbilõige rahvastikust. 
 
 ![Southbank](/images/artsy_girls.jpg "Southbank")
 <font color="grey" size="3">Southbank ehk lõunakallas ja teksa-tüdrukud Moodsa Kunsti Muuseumi ees.</font>
@@ -85,14 +85,18 @@ Meie Brisbane **To Do List**:
 ![Queensland Gallery of Modern Art](/images/bris_museum.jpg "Queensland Gallery of Modern Art")
 <font color="grey" size="3">Queensland Gallery of Modern Art Southbankil.</font>
 
-4.	Botaanikaaed linnasüdames. Kohe ärikeskuses lõuna jõe kaldal ülikooli kõrval on suur park-botaanikaaed, kuhu kesklinnast või ülikoolist saab kiirelt põgeneda, kui soov muruplatsil lõunat nautida. Väga mõnus. 
-5.	Local Farmers Market. Kohalike talunike jms väikeettevõtjate turgude külastus. Suhteliselt igal linnaosal on selline turg mõnel nädalapäeval, enamsti pühapäeval ja see on hea kokkusaamise või einestamise koht ning lisaks saab hanida ka värsket turukraami ja tutvuda aussie kohaliku toiduvalikuga, mis on eri kultuuride mõjust tingituna väga mitmekesine.
+[4]	Botaanikaaed linnasüdames. Kohe ärikeskusest lõunas jõe kaldal ülikooli kõrval on suur park-botaanikaaed, kuhu kesklinnast või ülikoolist saab kiirelt põgeneda, kui soov muruplatsil lõunat nautida. Väga mõnus. 
 
-6.	Powerhouse. Esimene asi, mis meie tegime Erkiga, kui Brisis esimest korda maandusime, oli Powehouse külastus. See on selline renoveeritud endine tehasehoone, kus saab tarbida kultuuri või sööki vaatega jõele. Mina käisin seal maailma pressifoto näitusel näiteks ja igal reedel on kõik oodatud tasuta stand up komööia saatel naeru välja pritsima. 
+[5]	Local Farmers Market - kohalike talunike jms väikeettevõtjate turgude külastus. Suhteliselt igal linnaosal on selline turg mõnel nädalapäeval, enamsti pühapäeval ja see on hea kokkusaamise või einestamise koht ning lisaks saab hankida ka värsket turukraami ja tutvuda aussie kohaliku toiduvalikuga, mis on eri kultuuride mõjust tingituna väga mitmekesine.
 
-7.	Riverwalk. Alternatiiv CityHopperile on kasutada oma jalamootorit ja nautida jõekaldaid ja neilt avanevat vaadet heas korras ja hästi tehtud kergliiklusteedelt, mis jooksevad päris pikalt kesklinna ümbruses. 
+[6]	Powerhouse. Esimene asi, mis meie tegime Erkiga, kui Brisis esimest korda maandusime, oli Powehouse külastus. See on selline renoveeritud endine tehasehoone, kus saab tarbida kultuuri või sööki vaatega jõele. Mina käisin seal maailma pressifoto näitusel näiteks ja igal reedel on kõik oodatud tasuta stand up komööia saatel naeru välja pritsima. 
 
-Kokkuvõtteks – Brisbane on väga kenasti ära kasutanud oma jõe ümbrust ja potentsiaali ning vähemalt kesklinna ümbruses on linnakodanikele ja külastajatele loodud head võimalused Brisbane riveri nautimiseks.  
+[7]	Riverwalk. Alternatiiv CityHopperile on kasutada oma jalamootorit ja nautida jõekaldaid ja neilt avanevat vaadet heas korras ja hästi tehtud kergliiklusteedelt, mis kesklinna ümbruses jooksevad päris pikalt mööda kallast. 
+
+Kokkuvõtteks – Brisbane on väga kenasti ära kasutanud oma jõe ümbrust ja potentsiaali. 
 
 ![Queensland University of Technology](/images/science_kirke.jpg "Queensland University of Technology")
 <font color="grey" size="3">Queensland University of Technology ehk Tehnikaülikoolis.</font>
+
+_Lumeingel-külmast kringel_
+
