@@ -24,7 +24,7 @@ Kui 5. Juunil Brisi saabusime, siis maandusime esmalt **Fortitude Valleys** Air 
 <font color="grey" size="3">Paddingtoni peatänav Latrobe Terrace.</font>
 
 ![Paddington ja CBD](/images/paddington2.jpg "Paddington ja CBD")
-<font color="grey" size="3">CBD eristub hästi ülejäänud madalhoonestusega linnas.</font>
+<font color="grey" size="3">CBD eristub hästi ülejäänud madalhoonestusega linnast.</font>
 
 Elasime koos 3 austraallase ja 1 ameeriklasega, kõik vanuses 20ndate keskpaik, üsna khuulis (aga mitte uhkes) boheemlaslikus kahekorruselises kahe veranda ja ühe rõduga majas, kus oli boonusena veel eriti lahe Russian Blue tõugu kass (õiemini koer kassinahas) [Jonsey – Mr Jonts – Jontaé](https://www.instagram.com/mr_jonts/), kelle oleks tahtnud endale võtta (ma väga tõsiselt kaalun nüüd **Russian Blue** võtmist, Siimul ja Lislil Sydneys on ka, samuti väga khjuuli iseloomuga), viis katarri, huvitav lugemislektüür, vinüülimängija hunniku minu keskkooli aegset muusikamaitset imiteeriva vinüülikollektsiooniga, David Bowie pildiga padi, kõik vajalikud köögitarvikud (+ mitu head vegan kokaraamatut). Maja põhiperemeheks kutsusime Louiet, itaalia juurte ja topeltkodakonsusega alati rõõmsameelset ja ülimalt sotsiaalset noormeest, kelle põhilised hobid olid (lisaks sõpradega hängimsele ja mõnuainete tarvitamisele) telekamängud, poks, kitarr. Tema tüdruksõber Sam (Samantha) Smith oli väga omapärase afromikrofoni soenguga moetudeng, kes  oli kõrvalolevale kohvikule Remy’s graafilise disaini teinud, nii et jõime kohvi tema joonistatud kohvitopsidest. Meie kõrval toas elas Ruby, kes pigem elas oma värvikat elu pigem väljaspool kodu (ja kellele kuulus vinüülimängija ja selle kollektsioon), ning Patrick Californiast, kes tegi varahommikust alates kohvisid ja armastas pärast tööd Louie elektrikitarri näppida ja oli nagu meiegi, Austraalias rändur, käies vahepeal Byron Bays surfamas. Oma miljonivaatega toa üürisime prantslannalt, kes sõitis suve- (või talve? Ütle nüüd kumb õigem on) vaheajaks Prantsusmaale, 180$ eest nädalas, mis on sama summa, mis Griffithis maksime ja päris hea diil suures linnas.  
 
@@ -32,18 +32,18 @@ Elasime koos 3 austraallase ja 1 ameeriklasega, kõik vanuses 20ndate keskpaik, 
 <font color="grey" size="3">Vinüülimängija ja rõdu.</font>
 
 ![Dorm](/images/dorm.jpg "Dorm")
-<font color="grey" size="3">Meie väike magamistuba suure riidekapi ja uhke vaatega (kumbi küll pildilt ei paista).</font>
+<font color="grey" size="3">Meie väike magamistuba suure riidekapi ja uhke vaatega (kumbagi küll pildilt ei paista).</font>
 
 ![Mr Jonts ja mina](/images/kirke_duo.jpg "Mr Jonts ja mina")
-<font color="grey" size="3">Härra Jonts armastas väga peapaitusi. Mina armastan Insane Acai Bari värskelt pressitud mahlasid.</font>
+<font color="grey" size="3">Härra Jonts armastab väga peapaitusi (ja seksikad suusasokid). Mina armastan **Insane Acai Bar**i värskelt pressitud mahlasid.</font>
 
 ![Paddington](/images/paddington1.jpg "Paddington")
 <font color="grey" size="3">Ja veel üks Paddingtoni vaade.</font>
 
-Meie teine kodu, kus hetkel elame, asub kohe järgmisel tänaval eelnevalt kirjeldatud majast. See oli päris hea leid, et saime ainult paar sammu astuda ja juba oligi kolitud ning nüüd asume vanemas puitmajas, queenslanderis, mille taga on džungliaed, kus elavad bush turkey’d ehk põõsakalkunid, kellel on ehitatud isegi suur pesa maapinnale ja peatselt oodata minikalkuneid. Üürisime toa Johannalt, rootslannalt, kes läks kuuks ajaks Kolumbiat avastama ja kellel on üllatus-üllatas eestlannast parim sõbranna (ainuke eestlane, keda ta tunneb). Wtf. 
+Meie teine kodu, kus hetkel elame, asub kohe järgmisel tänaval eelnevalt kirjeldatud majast. See oli päris hea leid, et saime ainult paar sammu astuda ja juba oligi kolitud ning nüüd asume vanemas puitmajas, _queenslanderis_, mille taga on džungliaed, kus elavad _bush turkey_ ’d ehk põõsakalkunid, kellel on ehitatud isegi suur pesa maapinnale ja peatselt oodata minikalkuneid. Üürisime toa Johannalt, rootslannalt, kes läks kuuks ajaks Kolumbiat avastama ja kellel on, üllatus-üllatus, eestlannast parim sõbranna (ainuke eestlane, keda ta tunneb). Wtf. 
 
 ![Vintage](/images/vintage.jpg "Vintage")
-<font color="grey" size="3">Vasakul: meie teine kodu Queenslander tüüpi majas. Paremal: üks paljudest Paddingtoni _vintage_ poodidest.</font>
+<font color="grey" size="3">Vasakul: meie teine kodu _Queenslander_ tüüpi majas. Paremal: üks paljudest Paddingtoni vintage poodidest.</font>
 
 ![Coffee please](/images/erki_coffee.jpg "Coffee please")
 <font color="grey" size="3">Jalutame Paddingtonis WestEndi pühapäeva hommikul.</font>
