@@ -11,7 +11,7 @@ Kaks talvist kuud Brisbanes on mööda saadetud ja ei oska muud kosta kui vaid k
 
 Aga alustame algusest..
 
-# Sweet Home – Kodu
+## Sweet Home – Kodu
 Kui 5. Juunil Brisi saabusime, siis maandusime esmalt **Fortitude Valleys** Air Bnb-s ühes iiri bäkkbäkkerite üürimajas, mille majatüüp oli **Queenslander**. See on väga iseloomulik siin osariigis, nagu nimestki võib järeldada. Põhitunnusteks on jalgade peal seisev kõrgete lagedega puitkarkass kaunistatud oranamentidega, kust tuul saab mõnusalt läbi ulguda – see tagab hea õhutuse, talveöödel ehk liigagi hea. Samas on need majad täitsa stiilsed ja hubased, kui hästi hoitud / renoveeritud. Tõmbaks paralleele Tallinna Kalamaja miljööväärtusliku arhitektuuriga. Nädalaga pidime leidma aga uue kodu ja see meil ka õnnestus tänu portaalile [Flatemates](Flatemates.com.au), kus võimalik leida ja otsida  korteri-/majakaaslaseid. Leidsime kodu kaheks kuuks **Paddingtonis**, kohe kesklinna külje all. Kui esimest korda Brisi külastasime, siis jäi see piirkond mulle silma kui hea _vibe_ ja auraga kant, kus omajagu kohvikuid, vintage ja antiikpoode, väikeseid kohalikke ärisid ning mitte liiga intensiivne elutempo, samas CBD-st (_central business district_ ärikeksus-kesklinn) pooletunnise jalutuskäigu kaugusel. Tegu on ka hästi künkliku ja uhkete linnavaadetega piirkonnaga ning meie maja asus megahullu kaldega tänaval, kust üles pidi peaaegu käpukil roomama, kui veidi liialdada. Automaatkastiga Fordikese käivitasime igatahes käsipiduri abiga. Hiljem selgus veel, et Paddington on pigem _posh_ (peen) linnaosa, kus elab jõukam kiht, kuigi tänaval konnates nagu ei teki tunnet, et oleks sarjas Bold and Beautiful (Vaprad ja Ilusad). Hipsterite kontsentratsioon on ka üsna kõrge, aga no hipsterid ongi jõukad :D Et te nüüd ei arvaks, et meil taskud veinitööst raha täis olid ja üürisime mingi villa. Mkm. 
 
 ![Meie kodutänav](/images/gladstone_st.jpg "Meie kodutänav")
@@ -48,7 +48,7 @@ Meie teine kodu, kus hetkel elame, asub kohe järgmisel tänaval eelnevalt kirje
 ![Coffee please](/images/erki_coffee.jpg "Coffee please")
 <font color="grey" size="3">Jalutame pühapäeva hommikul Paddingtonist WestEndi.</font>
 
-# Kes töötab, kes sööb
+## Kes töötab, kes sööb
 Brisi jõudes hakkasime lisaks kodu otsimisele kohe ka oma CV-sid lihvima ja tööd otsima. Erki tulistas CV-sid saata ja sai mitu intervjuu kutset juba esimese nädalaga (tema ampluua oli ka laiem), kuigi ta ei saanudki lõpuks neile minna, sest oli juba selleks ajaks tööl. Tegelikult ei leidnudki Erki oma praegust tööd ise, vaid töö leidis hoopis Erki töökuulutuste portaali üles laetud pooliku CV põhjal. Nimelt olid mõni aasta tagasi keegi eeslastest paarike Juta ja Kaspar nii hea mulje jätnud, et tööandja tahtis kiirel ajal taaskord eestlastega õnne proovida. Erki sõidab nüüd mööda linna ringi ja paigaldab ürituste tarvis atribuutikat. Mina sihtisin pigem erialast tööd, kuid pärast kahte nädalat töö otsimist ma enam ei viitsinud CV-sid saata ja kaaskirju personaliseerida (kuigi tegelikult ma ei saatnudki neid arvuliselt palju), sest see on jube tüütu, eriti kui suhteliselt tead, et bäkkpäkkeri viisaga on nagunii raske päris tööle saada (nt kehtib reegel, et ühe tööandja juures ei tohi töötada kauem kui kuus kuud, lisaks ei ole seljakotiränduritel väga usaldusväärne maine siin, kuna nad tahavad pidevalt ringi rännata) ja keegi neid CV-sid nagunii ei loe, pigem loevad tutvused. Igatahes, mina siis lõin lulli ja tegin  vahepeal _freelance_ töid läbi kohaliku **Airtasker** portaali, mis on veidi sarnane kodumaise GoWorkABit-iga. Kasutajad saavad selles keskkonnas tööotsakesi postitada, sh on palju _online_ töid, ning teine ports inimesi saab oma pakkumise teha ja kandideerida. Olen teinud kaarte uuringuraportisse ja raamatusse föderalismist Mynamaris, Neplais ja Sri Lankal. Rikkaks sellise juhusliku tööga ei saa, aga kogemuse ja suure hulga vaba aja üle olen õnnelikum kui kusagil kohvi serveerides, y-generatsiooni esindaja nagu ma olen. Vahepeal toksin programmeerida ka midagi ja valmistun vaimselt sügisel jälle kooli minekuks, igavene üliõpilane nagu ma olen. Ehk siis ma naasen tagasi Eestimaale vahepõikega Tais. Mulle kulub veel üks puhkus ära (loe: rohkelt imemaitsva ja odava tai toidu pugimist ja mitmekümne Budhha templi külastamist). Kui mu kobakäpad käed lubavad, siis ehk saan isegi ratta esimest korda elus kokku pandud, minu isiklik mehaanik Erki tegi juba koolituse ka, kuigi ma kardan, et midagi läheb raudselt nihu. Oot, Erki ei tulegi Taisse? Nope. Läheme lahku? Ei! (me loodame) Erki tahab lihtsalt veel Austraaliasse jääda. Ühest küljest tuleb teda mõista: kes see ikka tahab vabatahlikult eesti talve naasta, kui on võimalus seda teha ka kevadel (tean, et on ka talvefänne, kuid pigem on nad vähemuses ja eesti talv või see mingi vahepeal moodustis kestab ikkagi pool aastat). 
 
 ![Solomon Islands kaart](/images/map_solomon.png "Solomon Islands")
@@ -57,7 +57,7 @@ Brisi jõudes hakkasime lisaks kodu otsimisele kohe ka oma CV-sid lihvima ja tö
 ![Nepal kaart](/images/map_Nepal.png "Nepal")
 <font color="grey" size="3">Küll seal Nepalis on palju rahvaid. See kaart läheb ühte raamatusse.</font>
 
-# Jälle (jalg)ratastel
+## Jälle (jalg)ratastel
 Rattamured on ka seljatatud ja saame nüüd rõõsalt Brisbane’i rohkeid künkaid vallutada. Erki sai uue Specialized raami (tänud Kristjanile) ja minul said ka kuluosad ära vahetatud, mistõttu oleme nüüdseks omajagu Brisi rattateid uudistanud, mis on täitsa eeskujulikud ([vaata siit]( https://flic.kr/s/aHsm1SqgGo)). On kasutatud nii eri tasandeid, kui tee tüüpe (ka selliseid, mida Eestis ei eksisteerigi) ja rajatud teid nii õhku üle kiirtee kui jõe peale – seega ruumipuudus ei ole vabandus, ainult tahtmine ja raha. Loomulikult ei ole siingi kõik ideaalne ja vahel suure tee peal autodega sõites on natuke kõhe, kuid võimalusi on loodud ja mõned neist on vägagi eeskujulikud. Meie kodust mitte väga kaugel asuvad ka mäed ning loodus, seega mõnus mõnus. Rannikule on ca 25 km ja sinna saab sõita täies ulatuses mööda jalgrattateed, kuigi jõesuudme ümbruses on rannik üsna mangroovivõsa, mitte kuurortrand. Veidi põhja pool aga paiknevad ranna ääres päikselised asulad, kus tundub suuresti elavat pensionipõlve pidavad vanakesed. 
 
 ![Erki uus raam](/images/erki_uus_raam.jpg "Erki uus raam")
@@ -69,8 +69,8 @@ Rattamured on ka seljatatud ja saame nüüd rõõsalt Brisbane’i rohkeid künk
 ![Foodies](/images/foodies.jpg "Foodies")
 <font color="grey" size="3">Vasakul: käisime kohvikus Paper Moon Functions and Coffee House filmiõhtul. Paremal: Westendi kuulus jäätisekohvik Gelato Messina.</font>
 
-# Bris algajale
-Brisbane ei ole ehk tegevuste poolest nii põnev linn kui Melbourne, aga elukeskkonnana on täitsa meeldiv. **To Do List**:
+## BNE algajale
+Brisbane ehk BNE ei ole ehk tegevuste poolest nii põnev linn kui Melbourne, aga elukeskkonnana on täitsa meeldiv. **To Do List**:
 
 [1]	Päikesetõusu või –loojangu nautimine **Mt Coot-tha** otsas. Avanab hea vaade linnale ja CBD ehk kesklinna tornid eristuvad hästi välja. Muruplatsil saab kohvi nautida või külastada kohvikut-restorani ja ümberringi on matkarajad.
 
