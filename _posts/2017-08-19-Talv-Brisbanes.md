@@ -67,8 +67,7 @@ Rattamured on ka seljatatud ja saame nüüd rõõsalt Brisbane’i rohkeid künk
 ![Foodies](/images/foodies.jpg "Foodies")
 <font color="grey" size="3">Vasakul: käisime kohvikus Paper Moon Functions and Coffee House filmiõhtul. Paremal: Westendi kuulus jäätisekohvik Gelato Messina.</font>
 
-Brisbane ei ole ehk tegevuste poolest nii põnev linn kui Melbourne, aga elukeskkonnana on täitsa meeldiv.
-Meie Brisbane **To Do List**:
+Brisbane ei ole ehk tegevuste poolest nii põnev linn kui Melbourne, aga elukeskkonnana on täitsa meeldiv. **To Do List**:
 
 [1]	Päikesetõusu või –loojangu nautimine **Mt Coot-tha** otsas. Avanab hea vaade linnale ja CBD ehk kesklinna tornid eristuvad hästi välja. Muruplatsil saab kohvi nautida või külastada kohvikut-restorani ja ümberringi on matkarajad.
 
@@ -99,4 +98,3 @@ Kokkuvõtteks – Brisbane on väga kenasti ära kasutanud oma jõe ümbrust ja 
 <font color="grey" size="3">Queensland University of Technology ehk Tehnikaülikoolis.</font>
 
 _Lumeingel-külmast kringel_
-
